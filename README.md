@@ -1,9 +1,9 @@
 # NumCounter - Counter App
 
 A straightforward counter application built with React.js and Tailwind CSS. It allows users to increment, decrement, and reset a numeric value, showcasing basic React functionality and responsive design.
-<!--
-**Live Demo -** [NumCounter](https://anandyelloju.github.io/num-counter/)
 
+**Live Demo -** [NumCounter](https://anandyelloju.github.io/num-counter/)
+<!--
 ## Table of Contents
 
 - [Screenshots](#screenshots)
