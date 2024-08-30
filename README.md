@@ -14,11 +14,11 @@ A straightforward counter application built with React.js and Tailwind CSS. It a
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
-<!--
+
 ## Screenshots
 
 ![Homepage](public/UI.png)
-
+<!--
 ## Installation
 
 To set up this project locally, follow these steps:
