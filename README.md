@@ -39,14 +39,14 @@ To set up this project locally, follow these steps:
     ```bash
     npm run dev
     ```
-<!--
+
 ## Usage
 
 After installation, you can run the project locally using the development server. The app includes the following features:
 
 - **Increment/Decrement/Reset Buttons:** Use the buttons to increase or decrease the counter value.
 - **Display Area:** Shows the current value of the counter.
-
+<!--
 ## Features
 
 - **Basic Counting Functionality:** Increment and decrement the value with ease.
