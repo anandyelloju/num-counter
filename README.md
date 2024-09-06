@@ -46,13 +46,13 @@ After installation, you can run the project locally using the development server
 
 - **Increment/Decrement/Reset Buttons:** Use the buttons to increase or decrease the counter value.
 - **Display Area:** Shows the current value of the counter.
-<!--
+
 ## Features
 
 - **Basic Counting Functionality:** Increment and decrement the value with ease.
 - **Responsive Design:** Optimized for both desktop and mobile devices.
 - **Clean UI:** Simple and intuitive interface built with Tailwind CSS.
-
+<!--
 ## Technologies Used
 
 - **React.js:** JavaScript library for building user interfaces.
