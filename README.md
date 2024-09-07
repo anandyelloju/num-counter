@@ -52,7 +52,7 @@ After installation, you can run the project locally using the development server
 - **Basic Counting Functionality:** Increment and decrement the value with ease.
 - **Responsive Design:** Optimized for both desktop and mobile devices.
 - **Clean UI:** Simple and intuitive interface built with Tailwind CSS.
-<!--
+
 ## Technologies Used
 
 - **React.js:** JavaScript library for building user interfaces.
@@ -60,7 +60,7 @@ After installation, you can run the project locally using the development server
 - **Vite:** Frontend tooling for fast development.
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,vite,,javascript,html,css,,vscode,github)](https://skillicons.dev)
-
+<!--
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
