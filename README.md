@@ -60,11 +60,11 @@ After installation, you can run the project locally using the development server
 - **Vite:** Frontend tooling for fast development.
 
 [![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,vite,,javascript,html,css,,vscode,github)](https://skillicons.dev)
-<!--
+
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
-
+<!--
 ## Credits
 
 - **React.js:** For providing a robust framework for building UI.
