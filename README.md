@@ -64,14 +64,14 @@ After installation, you can run the project locally using the development server
 ## Contributing
 
 Contributions are always welcome! - If you have suggestions or improvements.
-<!--
+
 ## Credits
 
 - **React.js:** For providing a robust framework for building UI.
 - **Tailwind CSS:** For a flexible and customizable styling framework.
 - **Vite:** For fast and efficient development tooling.
 - [Anand Yelloju](https://github.com/anandyelloju) - Project Creator
-
+<!--
 ## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) - see the [LICENSE](https://github.com/your-github-username/your-repo-name/blob/main/LICENSE) file for details.
